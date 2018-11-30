@@ -1,0 +1,3 @@
+SID 001
+FREQ 30
+LNK capteurs/c1
