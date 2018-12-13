@@ -1,3 +1,0 @@
-SID 002
-FREQ 60
-LNK capteurs/c2

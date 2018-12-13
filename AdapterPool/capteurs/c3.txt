@@ -1,3 +1,0 @@
-SID 003
-FREQ 10
-LNK capteurs/c3

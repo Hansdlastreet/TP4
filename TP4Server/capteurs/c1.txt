@@ -1,0 +1,5 @@
+SID 001
+FREQ 60
+LNK capteurs/c1
+VALUE 1
+SERVICE 1
