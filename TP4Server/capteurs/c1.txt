@@ -1,5 +1,5 @@
 SID 001
 FREQ 60
 LNK capteurs/c1
-VALUE 1
+VALUE 0
 SERVICE 1

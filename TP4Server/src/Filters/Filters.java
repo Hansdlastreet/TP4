@@ -14,12 +14,12 @@ public class Filters{
 		{
 		case 1:
 		{
-			//toService1(l);
+			toService1(l);
 			break;
 		}
 		case 2:
 		{
-			//toService2(l);
+			toService2(l);
 			break;
 		}
 		case 3:
@@ -37,13 +37,13 @@ public class Filters{
 	
 	private static void toService2(Lecture l)
 	{
-		l=f1(l);
+		l=f2(f1(l));
 		Service2.setData(l);
 	}
 	
 	private static void toService3(Lecture l)
-	{
-		l=f2(f1(l));
+	{	
+		l=f1(l);
 		Service3.setData(l);
 	}
 	

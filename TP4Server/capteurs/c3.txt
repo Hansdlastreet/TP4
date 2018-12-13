@@ -1,5 +1,5 @@
 SID 003
 FREQ 60
 LNK capteurs/c3
-VALUE 1
+VALUE 0
 SERVICE 3

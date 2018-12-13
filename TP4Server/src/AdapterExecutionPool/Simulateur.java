@@ -24,7 +24,7 @@ public class Simulateur implements Runnable
 
     public Simulateur()
     {
-    	System.out.println("simulateurv constructor");
+    	System.out.println("simulateur constructor");
         capteurs=new ArrayList<Capteur>();
         adaptateurs=new ArrayList<Adaptateur>();
         readFiles=new ArrayList<String>();
